@@ -1,0 +1,11 @@
+cover/
+build/
+docs/_build
+naverdic.egg-info/
+*.pyc
+*.swp
+*.egg
+.*.sw[op]
+env/
+
+dist
