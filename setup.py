@@ -22,7 +22,6 @@ packages = [
 
 requires = [
     'requests',
-    'ghost',
 ]
 
 with open('README.rst', 'r', 'utf-8') as f:
@@ -30,9 +29,9 @@ with open('README.rst', 'r', 'utf-8') as f:
 
 setup(
     name='naverdic',
-    version=requests.__version__,
+    version=naverdic.__version__,
     description='NAVER dictionary wrapper for Python',
-    long_description=readme + '\n\n' + history,
+    long_description=readme,
     author='Taehoon Kim',
     author_email='carpedm20@gmail.com',
     url='http://github.com/carpedm20/naverdic',

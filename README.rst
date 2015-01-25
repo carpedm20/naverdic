@@ -1,5 +1,5 @@
-naverdic: NAVER dictionary wrapper for Python
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+naverdic
+~~~~~~~~
 
 .. |PyPi version| image:: https://pypip.in/v/naverdic/badge.png?style=flat
    :target: https://pypi.python.org/pypi/naverdic

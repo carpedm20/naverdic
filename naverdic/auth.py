@@ -6,4 +6,6 @@ naverdic.auth
 
 This module provides an authentication for NAVER account.
 """
-from ghost import Ghost
+
+def login(account, password):
+    pass
