@@ -10,6 +10,8 @@ naverdic
 .. |PyPi license| image:: https://pypip.in/license/naverdic/badge.svg?style=flat
    :target: https://pypi.python.org/pypi/naverdic
 
+*naverdic* is a Python wrapper for NAVER dictionary.
+
 Features
 --------
 
@@ -32,7 +34,7 @@ To install naverdic, simply:
 Documentation
 -------------
 
-Documentation is available at ???.
+Documentation is in progress...
 
 
 Author
